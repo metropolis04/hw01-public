@@ -1,0 +1,149 @@
+<html>
+<head>
+<style>
+
+#list01 {
+
+list-style-type: none;
+margin:0;
+padding:0;
+}
+
+#list01 li {
+
+display: inline-block;
+
+}
+
+a {
+
+text-decoration: none;
+padding: 10px;
+font-size: 15px;
+font-family: Verdana ;
+color : black;
+}
+
+h1, h3 {
+
+text-align : center;
+
+}
+
+
+#image-div {
+
+position: relative;
+
+margin:auto;
+width: 550px;
+height: 700px;
+background-color: white;
+border: 30px solid white;
+
+}
+
+img {
+
+width : 550px;
+
+}
+
+#footer {
+
+position: relative;
+top: 50px;
+margin:auto;
+width: 350px;
+height: 200px;
+background-color: white;
+
+
+}
+
+
+#list-footer {
+
+list-style-type: none;
+}
+
+#list-footer li {
+
+display: inline-block;
+
+}
+
+#list-footer li a {
+
+font-size: 10px;
+}
+
+</style>
+</head>
+<body>
+
+<div id="nav-1">
+<ul id="list01">
+
+<li><a href="https://softwareacademy.bg" target="_blank"><b>Начало</b></a></li>
+<li><a href="https://softwareacademy.bg" target="_blank"><b>Нашите услуги</b></a></li>
+
+</ul>
+
+<div id="main" style="background-color: rgb(243, 245, 248); height: 1000px">
+
+ <h1>Академия за малки котки</h1>
+ <h3>За моментите в които сладостта и котешкия поглед не помага</h3>
+
+
+
+   <div id="image-div">
+
+   <img src="https://i.ibb.co/XDKZJp7/cats-logo.png">
+
+   <h2>Dolore Amet Consequat</h2>
+
+   <p> 
+    Цялото население на карибския остров Сейнт Винсент остана без чиста вода и електричество след изригването миналата седмица на вулкана Ла Суфриер, заяви вчера говорител на ООН, предаде ДПА.
+  </p>
+  
+  <h2> Sed Magna Ornare</h2>
+   <p>
+   Освен това, на около 20 хиляди хора, които бяха евакуирани от Сейнт Винсент, все още не е намерен подслон, изтъкна Стефан Дюжарик, като се позова на данни на Службата на ООН за координация по хуманитарните въпроси.
+   </p>
+  
+  <ul>
+  
+  <li>Стрелец - Може да са винаги много прями</li>
+  <li>Риби - Рибите се стараят да видят положителното у всички.</li>
+  <li>Везни - Везните са подобни на Рибите в мечтателното си поведение</li>
+  <li>Овен - Овните разбират, че животът не винаги е лесен</li>
+  <li>Лъв - Лъвовете са очарователни и мили, те вярват, че светът е в ръцете им</li>
+  </ul>
+ 
+</div>
+</div>
+</div>
+   
+   <div id="footer">
+     <div id="footer-in">
+ <img style="width:50px;height:50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPVG_icon_2016.svg/1024px-WPVG_icon_2016.svg.png">
+
+<img style="width:50px;height:50px" src="http://iconutopia.com/wp-content/uploads/2016/06/icon-design-guide.png">
+
+<img style="width:50px;height:50px" src="http://iconutopia.com/wp-content/uploads/2016/06/space-dog-laika1.png">
+
+<img style="width:50px;height:50px" src="https://icons-for-free.com/iconfiles/png/512/mario+mario+bros+mario+world+mushroom+toad+videogame+icon-1320196400529338074.png">
+
+<img style="width:50px;height:50px" src="https://static.thenounproject.com/png/3249503-200.png">
+
+ <ul id="list-footer">
+ 
+ <li><a href="https://softwareacademy.bg" target="_blank"><b>Начало</b></a></li>
+ <li><a href="https://softwareacademy.bg" target="_blank"><b>Нашите услуги</b></a></li>
+
+ </ul>
+   </div>
+   </div>
+</body>
+</html>
